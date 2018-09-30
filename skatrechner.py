@@ -1,6 +1,3 @@
-import os
-import numpy as np
-
 spielerAnzahl = 0
 punkte = []
 differenzen = []
